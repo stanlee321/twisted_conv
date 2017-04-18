@@ -6,3 +6,7 @@ link http://www.zuj.edu.jo/download/harmonic-analysis-real-variable-methods-orth
 http://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/
 
 https://www.quantiki.org/wiki/list-qc-simulators
+
+
+http://www.java2s.com/Code/Python/GUI-Tk/ScrolledCanvas.htm
+http://effbot.org/tkinterbook/canvas.htm
