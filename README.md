@@ -10,3 +10,6 @@ https://www.quantiki.org/wiki/list-qc-simulators
 
 http://www.java2s.com/Code/Python/GUI-Tk/ScrolledCanvas.htm
 http://effbot.org/tkinterbook/canvas.htm
+
+
+http://stackoverflow.com/questions/31440167/placing-plot-on-tkinter-main-window-in-python
